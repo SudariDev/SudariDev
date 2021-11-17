@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasundara</h1>
-<h3 align="center">Information Technology Undergraduate at SLIIT A passionate frontend developer from India</h3>
+<h3 align="center">Information Technology Undergraduate at SLIIT </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudaridev&label=Profile%20views&color=0e75b6&style=flat" alt="sudaridev" /> </p>
 
